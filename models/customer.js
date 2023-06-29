@@ -80,7 +80,7 @@ class Customer {
   }
 
   get fullName() {
-    return `${this.first_name} ${this.last_name}`; 
+    return `${this.firstName} ${this.lastName}`; 
   }
 }
 
